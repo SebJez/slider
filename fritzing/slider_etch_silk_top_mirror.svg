@@ -24,7 +24,7 @@
    <g transform="translate(358.222,55.0453)">
     <g transform="matrix(0,-1,1,0,0,0)">
      <g id="silkscreen">
-      <text font-size="4.7971" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="black" stroke-width="0" xml:space="preserve" x="14.3913" text-anchor="middle" id="label" font-family="OCRA" y="4.31738">4x10k&#x3a9;</text>
+      <text font-size="4.7971" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="black" stroke-width="0" xml:space="preserve" x="14.3913" text-anchor="middle" id="label" font-family="Futura Md BT" y="4.31738">4x10k&#x3a9;</text>
      </g>
     </g>
    </g>
@@ -332,34 +332,34 @@
   <g partID="854299350">
    <g transform="translate(50.7703,167.318)">
     <g id="silkscreen">
-     <text font-size="7.2" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0" fill="black" xml:space="preserve" x="3.6" text-anchor="middle" id="label" font-family="OCRA" y="6.48">+</text>
+     <text font-size="7.2" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0" fill="black" xml:space="preserve" x="3.6" text-anchor="middle" id="label" font-family="Futura Md BT" y="6.48">+</text>
     </g>
    </g>
   </g>
   <g partID="854299380">
    <g transform="translate(19.6342,166.447)">
     <g id="silkscreen">
-     <text font-size="7.2" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0" fill="black" xml:space="preserve" x="3.6" text-anchor="middle" id="label" font-family="OCRA" y="6.48">-</text>
+     <text font-size="7.2" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0" fill="black" xml:space="preserve" x="3.6" text-anchor="middle" id="label" font-family="Futura Md BT" y="6.48">-</text>
     </g>
    </g>
   </g>
   <g partID="854127000" id="partLabel">
    <g transform="translate(349.364,36.4805)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">R2</text>
     </g>
    </g>
   </g>
   <g partID="854126970" id="partLabel">
    <g transform="translate(349.679,30.3877)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">R1</text>
     </g>
    </g>
   </g>
   <g partID="854136030" id="partLabel">
    <g transform="translate(293.847,56.0733)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">R5</text>
      <text x="0" y="8.75">220k&#x3a9;</text>
     </g>
@@ -367,14 +367,14 @@
   </g>
   <g partID="854127040" id="partLabel">
    <g transform="translate(349.402,50.1413)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">R4</text>
     </g>
    </g>
   </g>
   <g partID="854127020" id="partLabel">
    <g transform="translate(349.407,43.3189)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">R3</text>
     </g>
    </g>
@@ -382,7 +382,7 @@
   <g partID="854125340" id="partLabel">
    <g transform="translate(179.072,146.113)">
     <g transform="matrix(1,0,0,1,0,0)">
-     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
       <text x="0" y="3.75">Arduino</text>
      </g>
     </g>
@@ -390,7 +390,7 @@
   </g>
   <g partID="854136150" id="partLabel">
    <g transform="translate(347.738,63.5432)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">R6</text>
      <text x="0" y="8.75">2.2k&#x3a9;</text>
     </g>
@@ -399,7 +399,7 @@
   <g partID="854139320" id="partLabel">
    <g transform="translate(248.183,143.864)">
     <g transform="matrix(0,-1,1,0,0,0)">
-     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
       <text x="0" y="3.75">R8</text>
       <text x="0" y="8.75">220&#x3a9;</text>
      </g>
@@ -409,7 +409,7 @@
   <g partID="854139290" id="partLabel">
    <g transform="translate(222.183,143.402)">
     <g transform="matrix(-4.44089e-16,-1,1,-4.44089e-16,0,0)">
-     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
       <text x="0" y="3.75">R7</text>
       <text x="0" y="8.75">220&#x3a9;</text>
      </g>
@@ -419,7 +419,7 @@
   <g partID="854140790" id="partLabel">
    <g transform="translate(350.183,108.388)">
     <g transform="matrix(0,-1,1,0,0,0)">
-     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
       <text x="0" y="3.75">Aparat</text>
      </g>
     </g>
@@ -428,7 +428,7 @@
   <g partID="854138530" id="partLabel">
    <g transform="translate(323.834,127.908)">
     <g transform="matrix(0,-1,1,0,0,0)">
-     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
       <text x="0" y="3.75">Transoptor</text>
      </g>
     </g>
@@ -437,7 +437,7 @@
   <g partID="854160850" id="partLabel">
    <g transform="translate(122.873,123.511)">
     <g transform="matrix(1,0,0,1,0,0)">
-     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
       <text x="0" y="3.75">Klawiatura</text>
      </g>
     </g>
@@ -445,35 +445,35 @@
   </g>
   <g partID="854298790" id="partLabel">
    <g transform="translate(10.8058,14.5349)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">OUT-</text>
     </g>
    </g>
   </g>
   <g partID="854299170" id="partLabel">
    <g transform="translate(61.2058,14.5349)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">OUT+</text>
     </g>
    </g>
   </g>
   <g partID="854299210" id="partLabel">
    <g transform="translate(61.2058,136.935)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">IN+</text>
     </g>
    </g>
   </g>
   <g partID="854299250" id="partLabel">
    <g transform="translate(10.8058,136.935)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">IN-</text>
     </g>
    </g>
   </g>
   <g partID="854299290" id="partLabel">
    <g transform="translate(30.3817,206.885)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">6-30V</text>
     </g>
    </g>
@@ -481,7 +481,7 @@
   <g partID="854244890" id="partLabel">
    <g transform="translate(242.696,198.85)">
     <g transform="matrix(1,0,0,1,0,0)">
-     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+     <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
       <text x="0" y="3.75">Sterownik silnika krokowego</text>
      </g>
     </g>
@@ -489,7 +489,7 @@
   </g>
   <g partID="854133100" id="partLabel">
    <g transform="translate(214.374,22.6197)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
+    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'Futura Md BT'" fill-opacity="1">
      <text x="0" y="3.75">LCD</text>
     </g>
    </g>

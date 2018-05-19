@@ -1,496 +1,2216 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Fritzing (http://www.fritzing.org/) -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370.826 230.655" x="0in" version="1.2" width="5.15035in" xmlns:svg="http://www.w3.org/2000/svg" y="0in" height="3.20354in"  baseProfile="tiny">
- <g partID="854243881">
-  <g transform="translate(370.826,230.655)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="silkscreen">
-     <rect fill="none" stroke-width="0.576" x="0.288" stroke="black" width="370.25" height="230.079" y="0.288"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g partID="854243880">
-  <g transform="translate(370.826,230.655)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="board">
-     <rect fill="none" stroke-width="0.5" x="0.288" stroke="black" id="boardoutline" width="370.25" height="230.079" y="0.288" fill-opacity="0.5"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g partID="854284500">
-  <g transform="translate(358.222,55.0453)">
-   <g transform="matrix(0,-1,1,0,0,0)">
-    <g id="silkscreen">
-     <text font-size="4.7971" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="black" stroke-width="0" xml:space="preserve" x="14.3913" text-anchor="middle" id="label" font-family="OCRA" y="4.31738">4x10k&#x3a9;</text>
-    </g>
-   </g>
-  </g>
- </g>
- <g partID="854243881">
-  <g transform="translate(370.826,230.655)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="silkscreen">
-     <rect fill="none" stroke-width="0.576" x="0.288" stroke="black" width="370.25" height="230.079" y="0.288"/>
-    </g>
-   </g>
-  </g>
- </g>
- <g partID="854244891">
-  <g transform="translate(234.006,224.615)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="1.44" y2="44.64" x1="1.44" y1="1.44"/>
-     <line stroke-width="0.72" stroke="black" x2="8.64" y2="44.64" x1="1.44" y1="44.64"/>
-     <line stroke-width="0.72" stroke="black" x2="8.64" y2="1.44" x1="8.64" y1="44.64"/>
-     <line stroke-width="0.72" stroke="black" x2="1.44" y2="1.44" x1="8.64" y1="1.44"/>
-     <line stroke-width="0.36" stroke="black" x2="3.96" y2="1.44" x1="1.44" y1="3.96"/>
-     <!-- 120 -->
-    </g>
-   </g>
-  </g>
- </g>
- <g partID="854209602">
-  <g transform="translate(224.214,142.823)">
-   <g id="silkscreen">
-    <line stroke-width="1.512" stroke="black" x2="4.752" y2="23.652" x1="4.752" stroke-linecap="round" y1="7.452"/>
-   </g>
-  </g>
- </g>
- <g partID="854140791">
-  <g transform="translate(339.126,84.9349)">
-   <g id="silkscreen">
-    <line stroke-width="0.72" stroke="black" x2="1.44" y2="23.04" x1="1.44" y1="1.44"/>
-    <line stroke-width="0.72" stroke="black" x2="8.64" y2="23.04" x1="1.44" y1="23.04"/>
-    <line stroke-width="0.72" stroke="black" x2="8.64" y2="1.44" x1="8.64" y1="23.04"/>
-    <line stroke-width="0.72" stroke="black" x2="1.44" y2="1.44" x1="8.64" y1="1.44"/>
-    <line stroke-width="0.36" stroke="black" x2="3.96" y2="1.44" x1="1.44" y1="3.96"/>
-    <!-- 120 -->
-   </g>
-  </g>
- </g>
- <g partID="854160851">
-  <g transform="translate(159.126,131.015)">
-   <g transform="matrix(0,-1,1,0,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="1.44" y2="37.44" x1="1.44" y1="1.44"/>
-     <line stroke-width="0.72" stroke="black" x2="8.64" y2="37.44" x1="1.44" y1="37.44"/>
-     <line stroke-width="0.72" stroke="black" x2="8.64" y2="1.44" x1="8.64" y1="37.44"/>
-     <line stroke-width="0.72" stroke="black" x2="1.44" y2="1.44" x1="8.64" y1="1.44"/>
-     <line stroke-width="0.36" stroke="black" x2="3.96" y2="1.44" x1="1.44" y1="3.96"/>
-     <!-- 120 -->
-    </g>
-   </g>
-  </g>
- </g>
- <g partID="854125341">
-  <g transform="translate(90.5162,136.775)">
-   <g transform="matrix(1,0,0,1,0,0)">
-    <g gorn="0.1" id="silkscreen">
-     <path fill="none" stroke-width="0.575998" stroke="black" d="M1.93009,5.98217A5.47198,5.472,0,0,1,7.66336,0.288L118.028,0.288A5.47198,5.472,0,0,1,123.762,5.98217L123.762,44.4178A5.47198,5.472,0,0,1,118.028,50.112L7.66336,50.112A5.47198,5.472,0,0,1,1.93009,44.4178L1.93009,32.3177L2.64675,31.6059L2.64675,18.0823L1.93009,17.3705L1.93009,5.98217M13.1855,19.6724a0.704123,0.704126,0,1,0,1.40825,0,0.704123,0.704126,0,1,0,-1.40825,0zM13.1855,30.7276a0.704123,0.704126,0,1,0,1.40825,0,0.704123,0.704126,0,1,0,-1.40825,0zM4.21963,5.4a2.8301,2.83011,0,1,0,5.6602,0,2.8301,2.83011,0,1,0,-5.6602,0zM4.21963,45a2.8301,2.83011,0,1,0,5.6602,0,2.8301,2.83011,0,1,0,-5.6602,0zM115.82,5.4a2.8301,2.83011,0,1,0,5.6602,0,2.8301,2.83011,0,1,0,-5.6602,0zM115.1,45a2.8301,2.83011,0,1,0,5.6602,0,2.8301,2.83011,0,1,0,-5.6602,0z"/>
-     <g>
-      <title>element:JP3</title>
-      <g>
-       <title>package:1X08_ROUND_70</title>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 370.826 230.655"
+   x="0in"
+   version="1.2"
+   width="5.15035in"
+   y="0in"
+   height="3.20354in"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="slider_etch_silk_top.svg">
+  <metadata
+     id="metadata626">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs624" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     id="namedview622"
+     showgrid="false"
+     inkscape:zoom="3.2532848"
+     inkscape:cx="170.55965"
+     inkscape:cy="232.83289"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     partID="854243881"
+     id="g4"
+     style="">
+    <g
+       transform="translate(370.826,230.655)"
+       id="g6"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g8"
+         style="">
+        <g
+           id="silkscreen"
+           style="">
+          <rect
+             fill="none"
+             stroke-width="0.576"
+             x="0.288"
+             stroke="black"
+             width="370.25"
+             height="230.079"
+             y="0.288"
+             id="rect11"
+             style="" />
+        </g>
       </g>
-     </g>
-     <g>
-      <title>element:JP4</title>
-      <g>
-       <title>package:1X08_ROUND_70</title>
+    </g>
+  </g>
+  <g
+     partID="854243880"
+     id="g13"
+     style="">
+    <g
+       transform="translate(370.826,230.655)"
+       id="g15"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g17"
+         style="">
+        <g
+           id="board"
+           style="">
+          <rect
+             fill="none"
+             stroke-width="0.5"
+             x="0.288"
+             stroke="black"
+             id="boardoutline"
+             width="370.25"
+             height="230.079"
+             y="0.288"
+             fill-opacity="0.5"
+             style="" />
+        </g>
       </g>
-     </g>
-     <g>
-      <title>element:U$7</title>
-      <g>
-       <title>package:METROMINI_SILK</title>
+    </g>
+  </g>
+  <g
+     partID="854284500"
+     id="g21"
+     style="">
+    <g
+       transform="translate(358.222,55.0453)"
+       id="g23"
+       style="">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g25"
+         style="">
+        <g
+           id="g27"
+           style="">
+          <text
+             font-size="4.7971"
+             fill="black"
+             stroke-width="0"
+             xml:space="preserve"
+             x="14.3913"
+             text-anchor="middle"
+             id="label"
+             font-family="OCRA"
+             y="4.31738"
+             style="-inkscape-font-specification:'Futura Md BT';font-family:'Futura Md BT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">4x10kΩ</text>
+        </g>
       </g>
-     </g>
-     <g>
-      <title>element:U2</title>
-      <g>
-       <title>package:MLF32-TH</title>
-       <line stroke-width="0.719997" x2="104.069" stroke="black" y2="26.8813" x1="104.069" stroke-linecap="round" y1="25.6787"/>
-       <line stroke-width="0.719997" x2="94.6479" stroke="black" y2="35.0994" x1="95.851" stroke-linecap="round" y1="35.0994"/>
-       <line stroke-width="0.719997" x2="86.4299" stroke="black" y2="25.6787" x1="86.4299" stroke-linecap="round" y1="26.8813"/>
-       <line stroke-width="0.719997" x2="95.851" stroke="black" y2="17.4606" x1="94.6479" stroke-linecap="round" y1="17.4606"/>
-       <circle fill="none" stroke-width="0.719997" stroke="black" cy="26.28" r="0.425195" cx="101.463"/>
+    </g>
+  </g>
+  <g
+     partID="854243881"
+     id="g30"
+     style="">
+    <g
+       transform="translate(370.826,230.655)"
+       id="g32"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g34"
+         style="">
+        <g
+           id="g36"
+           style="">
+          <rect
+             fill="none"
+             stroke-width="0.576"
+             x="0.288"
+             stroke="black"
+             width="370.25"
+             height="230.079"
+             y="0.288"
+             id="rect38"
+             style="" />
+        </g>
       </g>
-     </g>
-     <g>
-      <title>element:X3</title>
-      <g>
-       <title>package:4UCONN_20329</title>
-       <line stroke-width="0.359999" x2="17.0077" stroke="black" y2="20.3811" x1="17.0077" stroke-linecap="round" y1="18.1134"/>
-       <line stroke-width="0.359999" x2="17.0077" stroke="black" y2="32.2866" x1="17.0077" stroke-linecap="round" y1="30.0189"/>
-       <line stroke-width="0.359999" x2="1.70077" stroke="black" y2="14.4284" x1="4.25195" stroke-linecap="round" y1="14.4284"/>
-       <line stroke-width="0.359999" x2="1.70077" stroke="black" y2="35.9716" x1="1.70077" stroke-linecap="round" y1="14.4284"/>
-       <line stroke-width="0.359999" x2="4.25195" stroke="black" y2="35.9716" x1="1.70077" stroke-linecap="round" y1="35.9716"/>
+    </g>
+  </g>
+  <g
+     partID="854244891"
+     id="g40"
+     style="">
+    <g
+       transform="translate(234.006,224.615)"
+       id="g42"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g44"
+         style="">
+        <g
+           id="g46"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="1.44"
+             y2="44.64"
+             x1="1.44"
+             y1="1.44"
+             id="line48"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="8.64"
+             y2="44.64"
+             x1="1.44"
+             y1="44.64"
+             id="line50"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="8.64"
+             y2="1.44"
+             x1="8.64"
+             y1="44.64"
+             id="line52"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="1.44"
+             y2="1.44"
+             x1="8.64"
+             y1="1.44"
+             id="line54"
+             style="" />
+          <line
+             stroke-width="0.36"
+             stroke="black"
+             x2="3.96"
+             y2="1.44"
+             x1="1.44"
+             y1="3.96"
+             id="line56"
+             style="" />
+          <!-- 120 -->
+        </g>
       </g>
-     </g>
-     <line fill="none" stroke-width="0.575998" x2="1.64975" stroke="black" y2="39.515" x1="0.287999" fill-opacity="1" y1="39.515"/>
-     <line fill="none" stroke-width="0.575998" x2="1.64975" stroke="black" y2="10.885" x1="0.287999" fill-opacity="1" y1="10.885"/>
-     <line fill="none" stroke-width="0.575998" x2="0.287999" stroke="black" y2="10.885" x1="0.287999" fill-opacity="1" y1="39.515"/>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854127041">
-  <g transform="translate(346.866,57.0709)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="3.096" x1="5.4" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="28.8" y2="3.096" x1="24.984" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="0.72" x1="10.584" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="5.472" x1="24.984" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="5.472" x1="24.984" y1="5.472"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="0.72" x1="10.584" y1="5.472"/>
+  <g
+     partID="854209602"
+     id="g58"
+     style="">
+    <g
+       transform="translate(224.214,142.823)"
+       id="g60"
+       style="">
+      <g
+         id="g62"
+         style="">
+        <line
+           stroke-width="1.512"
+           stroke="black"
+           x2="4.752"
+           y2="23.652"
+           x1="4.752"
+           stroke-linecap="round"
+           y1="7.452"
+           id="line64"
+           style="" />
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854127021">
-  <g transform="translate(346.866,49.8709)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="3.096" x1="5.4" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="28.8" y2="3.096" x1="24.984" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="0.72" x1="10.584" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="5.472" x1="24.984" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="5.472" x1="24.984" y1="5.472"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="0.72" x1="10.584" y1="5.472"/>
+  <g
+     partID="854140791"
+     id="g66"
+     style="">
+    <g
+       transform="translate(339.126,84.9349)"
+       id="g68"
+       style="">
+      <g
+         id="g70"
+         style="">
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="1.44"
+           y2="23.04"
+           x1="1.44"
+           y1="1.44"
+           id="line72"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="8.64"
+           y2="23.04"
+           x1="1.44"
+           y1="23.04"
+           id="line74"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="8.64"
+           y2="1.44"
+           x1="8.64"
+           y1="23.04"
+           id="line76"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="1.44"
+           y2="1.44"
+           x1="8.64"
+           y1="1.44"
+           id="line78"
+           style="" />
+        <line
+           stroke-width="0.36"
+           stroke="black"
+           x2="3.96"
+           y2="1.44"
+           x1="1.44"
+           y1="3.96"
+           id="line80"
+           style="" />
+        <!-- 120 -->
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854127001">
-  <g transform="translate(346.866,42.6709)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="3.096" x1="5.4" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="28.8" y2="3.096" x1="24.984" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="0.72" x1="10.584" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="5.472" x1="24.984" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="5.472" x1="24.984" y1="5.472"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="0.72" x1="10.584" y1="5.472"/>
+  <g
+     partID="854160851"
+     id="g82"
+     style="">
+    <g
+       transform="translate(159.126,131.015)"
+       id="g84"
+       style="">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g86"
+         style="">
+        <g
+           id="g88"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="1.44"
+             y2="37.44"
+             x1="1.44"
+             y1="1.44"
+             id="line90"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="8.64"
+             y2="37.44"
+             x1="1.44"
+             y1="37.44"
+             id="line92"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="8.64"
+             y2="1.44"
+             x1="8.64"
+             y1="37.44"
+             id="line94"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="1.44"
+             y2="1.44"
+             x1="8.64"
+             y1="1.44"
+             id="line96"
+             style="" />
+          <line
+             stroke-width="0.36"
+             stroke="black"
+             x2="3.96"
+             y2="1.44"
+             x1="1.44"
+             y1="3.96"
+             id="line98"
+             style="" />
+          <!-- 120 -->
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854126971">
-  <g transform="translate(346.866,35.4709)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="3.096" x1="5.4" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="28.8" y2="3.096" x1="24.984" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="0.72" x1="10.584" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="5.472" x1="24.984" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="5.472" x1="24.984" y1="5.472"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="0.72" x1="10.584" y1="5.472"/>
+  <g
+     partID="854125341"
+     id="g100"
+     style="">
+    <g
+       transform="translate(90.5162,136.775)"
+       id="g102"
+       style="">
+      <g
+         transform="matrix(1,0,0,1,0,0)"
+         id="g104"
+         style="">
+        <g
+           gorn="0.1"
+           id="g106"
+           style="">
+          <path
+             fill="none"
+             stroke-width="0.575998"
+             stroke="black"
+             d="M1.93009,5.98217A5.47198,5.472,0,0,1,7.66336,0.288L118.028,0.288A5.47198,5.472,0,0,1,123.762,5.98217L123.762,44.4178A5.47198,5.472,0,0,1,118.028,50.112L7.66336,50.112A5.47198,5.472,0,0,1,1.93009,44.4178L1.93009,32.3177L2.64675,31.6059L2.64675,18.0823L1.93009,17.3705L1.93009,5.98217M13.1855,19.6724a0.704123,0.704126,0,1,0,1.40825,0,0.704123,0.704126,0,1,0,-1.40825,0zM13.1855,30.7276a0.704123,0.704126,0,1,0,1.40825,0,0.704123,0.704126,0,1,0,-1.40825,0zM4.21963,5.4a2.8301,2.83011,0,1,0,5.6602,0,2.8301,2.83011,0,1,0,-5.6602,0zM4.21963,45a2.8301,2.83011,0,1,0,5.6602,0,2.8301,2.83011,0,1,0,-5.6602,0zM115.82,5.4a2.8301,2.83011,0,1,0,5.6602,0,2.8301,2.83011,0,1,0,-5.6602,0zM115.1,45a2.8301,2.83011,0,1,0,5.6602,0,2.8301,2.83011,0,1,0,-5.6602,0z"
+             id="path108"
+             style="" />
+          <g
+             id="g110"
+             style="">
+            <title
+               id="title112">element:JP3</title>
+            <g
+               id="g114"
+               style="">
+              <title
+                 id="title116">package:1X08_ROUND_70</title>
+            </g>
+          </g>
+          <g
+             id="g118"
+             style="">
+            <title
+               id="title120">element:JP4</title>
+            <g
+               id="g122"
+               style="">
+              <title
+                 id="title124">package:1X08_ROUND_70</title>
+            </g>
+          </g>
+          <g
+             id="g126"
+             style="">
+            <title
+               id="title128">element:U$7</title>
+            <g
+               id="g130"
+               style="">
+              <title
+                 id="title132">package:METROMINI_SILK</title>
+            </g>
+          </g>
+          <g
+             id="g134"
+             style="">
+            <title
+               id="title136">element:U2</title>
+            <g
+               id="g138"
+               style="">
+              <title
+                 id="title140">package:MLF32-TH</title>
+              <line
+                 stroke-width="0.719997"
+                 x2="104.069"
+                 stroke="black"
+                 y2="26.8813"
+                 x1="104.069"
+                 stroke-linecap="round"
+                 y1="25.6787"
+                 id="line142"
+                 style="" />
+              <line
+                 stroke-width="0.719997"
+                 x2="94.6479"
+                 stroke="black"
+                 y2="35.0994"
+                 x1="95.851"
+                 stroke-linecap="round"
+                 y1="35.0994"
+                 id="line144"
+                 style="" />
+              <line
+                 stroke-width="0.719997"
+                 x2="86.4299"
+                 stroke="black"
+                 y2="25.6787"
+                 x1="86.4299"
+                 stroke-linecap="round"
+                 y1="26.8813"
+                 id="line146"
+                 style="" />
+              <line
+                 stroke-width="0.719997"
+                 x2="95.851"
+                 stroke="black"
+                 y2="17.4606"
+                 x1="94.6479"
+                 stroke-linecap="round"
+                 y1="17.4606"
+                 id="line148"
+                 style="" />
+              <circle
+                 fill="none"
+                 stroke-width="0.719997"
+                 stroke="black"
+                 cy="26.28"
+                 r="0.425195"
+                 cx="101.463"
+                 id="circle150"
+                 style="" />
+            </g>
+          </g>
+          <g
+             id="g152"
+             style="">
+            <title
+               id="title154">element:X3</title>
+            <g
+               id="g156"
+               style="">
+              <title
+                 id="title158">package:4UCONN_20329</title>
+              <line
+                 stroke-width="0.359999"
+                 x2="17.0077"
+                 stroke="black"
+                 y2="20.3811"
+                 x1="17.0077"
+                 stroke-linecap="round"
+                 y1="18.1134"
+                 id="line160"
+                 style="" />
+              <line
+                 stroke-width="0.359999"
+                 x2="17.0077"
+                 stroke="black"
+                 y2="32.2866"
+                 x1="17.0077"
+                 stroke-linecap="round"
+                 y1="30.0189"
+                 id="line162"
+                 style="" />
+              <line
+                 stroke-width="0.359999"
+                 x2="1.70077"
+                 stroke="black"
+                 y2="14.4284"
+                 x1="4.25195"
+                 stroke-linecap="round"
+                 y1="14.4284"
+                 id="line164"
+                 style="" />
+              <line
+                 stroke-width="0.359999"
+                 x2="1.70077"
+                 stroke="black"
+                 y2="35.9716"
+                 x1="1.70077"
+                 stroke-linecap="round"
+                 y1="14.4284"
+                 id="line166"
+                 style="" />
+              <line
+                 stroke-width="0.359999"
+                 x2="4.25195"
+                 stroke="black"
+                 y2="35.9716"
+                 x1="1.70077"
+                 stroke-linecap="round"
+                 y1="35.9716"
+                 id="line168"
+                 style="" />
+            </g>
+          </g>
+          <line
+             fill="none"
+             stroke-width="0.575998"
+             x2="1.64975"
+             stroke="black"
+             y2="39.515"
+             x1="0.287999"
+             fill-opacity="1"
+             y1="39.515"
+             id="line170"
+             style="" />
+          <line
+             fill="none"
+             stroke-width="0.575998"
+             x2="1.64975"
+             stroke="black"
+             y2="10.885"
+             x1="0.287999"
+             fill-opacity="1"
+             y1="10.885"
+             id="line172"
+             style="" />
+          <line
+             fill="none"
+             stroke-width="0.575998"
+             x2="0.287999"
+             stroke="black"
+             y2="10.885"
+             x1="0.287999"
+             fill-opacity="1"
+             y1="39.515"
+             id="line174"
+             style="" />
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854133101">
-  <g transform="translate(76.6858,17.9749)">
-   <g id="silkscreen">
-    <rect fill="none" stroke-width="0.72" x="0" stroke="black" width="226.8" height="102.024" y="0"/>
-    <rect fill="none" stroke-width="0.72" x="19.44" stroke="black" width="115.2" height="7.2" y="3.6"/>
-   </g>
-  </g>
- </g>
- <g partID="854136031">
-  <g transform="translate(346.866,64.2709)">
-   <g transform="matrix(-1,0,0,-1,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="3.096" x1="5.4" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="28.8" y2="3.096" x1="24.984" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="0.72" x1="10.584" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="5.472" x1="24.984" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="5.472" x1="24.984" y1="5.472"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="0.72" x1="10.584" y1="5.472"/>
+  <g
+     partID="854127041"
+     id="g176"
+     style="">
+    <g
+       transform="translate(346.866,57.0709)"
+       id="g178"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g180"
+         style="">
+        <g
+           id="g182"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="3.096"
+             x1="5.4"
+             y1="3.096"
+             id="line184"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="28.8"
+             y2="3.096"
+             x1="24.984"
+             y1="3.096"
+             id="line186"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="0.72"
+             x1="10.584"
+             y1="0.72"
+             id="line188"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="5.472"
+             x1="24.984"
+             y1="0.72"
+             id="line190"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="5.472"
+             x1="24.984"
+             y1="5.472"
+             id="line192"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="0.72"
+             x1="10.584"
+             y1="5.472"
+             id="line194"
+             style="" />
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854136151">
-  <g transform="translate(312.666,65.2789)">
-   <g id="silkscreen">
-    <line stroke-width="0.72" stroke="black" x2="10.584" y2="3.096" x1="5.4" y1="3.096"/>
-    <line stroke-width="0.72" stroke="black" x2="28.8" y2="3.096" x1="24.984" y1="3.096"/>
-    <line stroke-width="0.72" stroke="black" x2="24.984" y2="0.72" x1="10.584" y1="0.72"/>
-    <line stroke-width="0.72" stroke="black" x2="24.984" y2="5.472" x1="24.984" y1="0.72"/>
-    <line stroke-width="0.72" stroke="black" x2="10.584" y2="5.472" x1="24.984" y1="5.472"/>
-    <line stroke-width="0.72" stroke="black" x2="10.584" y2="0.72" x1="10.584" y1="5.472"/>
-   </g>
-  </g>
- </g>
- <g partID="854138531">
-  <g transform="translate(311.046,78.4549)">
-   <g stroke-width="0" gorn="0.4.0.0.0.0" id="silkscreen">
-    <line stroke-width="0.72" stroke="black" x2="0.72" y2="59.04" x1="0.72" gorn="0.4.0.0.0.0.0" id="line37" y1="0.72"/>
-    <line stroke-width="0.72" stroke="black" x2="29.52" y2="59.04" x1="0.72" gorn="0.4.0.0.0.0.1" id="line39" y1="59.04"/>
-    <line stroke-width="0.72" stroke="black" x2="29.52" y2="0.72" x1="29.52" gorn="0.4.0.0.0.0.2" id="line41" y1="59.04"/>
-    <line stroke-width="0.72" stroke="black" x2="11.52" y2="0.72" x1="0.72" gorn="0.4.0.0.0.0.3" id="line43" y1="0.72"/>
-    <line stroke-width="0.72" stroke="black" x2="29.52" y2="0.72" x1="18.72" gorn="0.4.0.0.0.0.4" id="line45" y1="0.72"/>
-   </g>
-  </g>
- </g>
- <g partID="854139291">
-  <g transform="translate(233.07,157.475)">
-   <g transform="matrix(-4.44089e-16,-1,1,-4.44089e-16,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="3.096" x1="5.4" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="28.8" y2="3.096" x1="24.984" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="0.72" x1="10.584" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="5.472" x1="24.984" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="5.472" x1="24.984" y1="5.472"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="0.72" x1="10.584" y1="5.472"/>
+  <g
+     partID="854127021"
+     id="g196"
+     style="">
+    <g
+       transform="translate(346.866,49.8709)"
+       id="g198"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g200"
+         style="">
+        <g
+           id="g202"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="3.096"
+             x1="5.4"
+             y1="3.096"
+             id="line204"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="28.8"
+             y2="3.096"
+             x1="24.984"
+             y1="3.096"
+             id="line206"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="0.72"
+             x1="10.584"
+             y1="0.72"
+             id="line208"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="5.472"
+             x1="24.984"
+             y1="0.72"
+             id="line210"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="5.472"
+             x1="24.984"
+             y1="5.472"
+             id="line212"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="0.72"
+             x1="10.584"
+             y1="5.472"
+             id="line214"
+             style="" />
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854139321">
-  <g transform="translate(240.27,157.475)">
-   <g transform="matrix(-4.44089e-16,-1,1,-4.44089e-16,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="3.096" x1="5.4" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="28.8" y2="3.096" x1="24.984" y1="3.096"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="0.72" x1="10.584" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="24.984" y2="5.472" x1="24.984" y1="0.72"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="5.472" x1="24.984" y1="5.472"/>
-     <line stroke-width="0.72" stroke="black" x2="10.584" y2="0.72" x1="10.584" y1="5.472"/>
+  <g
+     partID="854127001"
+     id="g216"
+     style="">
+    <g
+       transform="translate(346.866,42.6709)"
+       id="g218"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g220"
+         style="">
+        <g
+           id="g222"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="3.096"
+             x1="5.4"
+             y1="3.096"
+             id="line224"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="28.8"
+             y2="3.096"
+             x1="24.984"
+             y1="3.096"
+             id="line226"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="0.72"
+             x1="10.584"
+             y1="0.72"
+             id="line228"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="5.472"
+             x1="24.984"
+             y1="0.72"
+             id="line230"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="5.472"
+             x1="24.984"
+             y1="5.472"
+             id="line232"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="0.72"
+             x1="10.584"
+             y1="5.472"
+             id="line234"
+             style="" />
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854298791">
-  <g transform="translate(0.725824,20.1349)">
-   <g id="silkscreen">
-    <line stroke-width="0.72" stroke="black" x2="1.44" y2="8.64" x1="1.44" y1="1.44"/>
-    <line stroke-width="0.72" stroke="black" x2="8.64" y2="8.64" x1="1.44" y1="8.64"/>
-    <line stroke-width="0.72" stroke="black" x2="8.64" y2="1.44" x1="8.64" y1="8.64"/>
-    <line stroke-width="0.72" stroke="black" x2="1.44" y2="1.44" x1="8.64" y1="1.44"/>
-    <line stroke-width="0.36" stroke="black" x2="3.96" y2="1.44" x1="1.44" y1="3.96"/>
-    <!-- 120 -->
-   </g>
-  </g>
- </g>
- <g partID="854299171">
-  <g transform="translate(51.1258,20.1349)">
-   <g id="silkscreen">
-    <line stroke-width="0.72" stroke="black" x2="1.44" y2="8.64" x1="1.44" y1="1.44"/>
-    <line stroke-width="0.72" stroke="black" x2="8.64" y2="8.64" x1="1.44" y1="8.64"/>
-    <line stroke-width="0.72" stroke="black" x2="8.64" y2="1.44" x1="8.64" y1="8.64"/>
-    <line stroke-width="0.72" stroke="black" x2="1.44" y2="1.44" x1="8.64" y1="1.44"/>
-    <line stroke-width="0.36" stroke="black" x2="3.96" y2="1.44" x1="1.44" y1="3.96"/>
-    <!-- 120 -->
-   </g>
-  </g>
- </g>
- <g partID="854299211">
-  <g transform="translate(61.2058,142.535)">
-   <g transform="matrix(0,1,-1,0,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="1.44" y2="8.64" x1="1.44" y1="1.44"/>
-     <line stroke-width="0.72" stroke="black" x2="8.64" y2="8.64" x1="1.44" y1="8.64"/>
-     <line stroke-width="0.72" stroke="black" x2="8.64" y2="1.44" x1="8.64" y1="8.64"/>
-     <line stroke-width="0.72" stroke="black" x2="1.44" y2="1.44" x1="8.64" y1="1.44"/>
-     <line stroke-width="0.36" stroke="black" x2="3.96" y2="1.44" x1="1.44" y1="3.96"/>
-     <!-- 120 -->
+  <g
+     partID="854126971"
+     id="g236"
+     style="">
+    <g
+       transform="translate(346.866,35.4709)"
+       id="g238"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g240"
+         style="">
+        <g
+           id="g242"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="3.096"
+             x1="5.4"
+             y1="3.096"
+             id="line244"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="28.8"
+             y2="3.096"
+             x1="24.984"
+             y1="3.096"
+             id="line246"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="0.72"
+             x1="10.584"
+             y1="0.72"
+             id="line248"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="5.472"
+             x1="24.984"
+             y1="0.72"
+             id="line250"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="5.472"
+             x1="24.984"
+             y1="5.472"
+             id="line252"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="0.72"
+             x1="10.584"
+             y1="5.472"
+             id="line254"
+             style="" />
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854299251">
-  <g transform="translate(0.725824,142.535)">
-   <g id="silkscreen">
-    <line stroke-width="0.72" stroke="black" x2="1.44" y2="8.64" x1="1.44" y1="1.44"/>
-    <line stroke-width="0.72" stroke="black" x2="8.64" y2="8.64" x1="1.44" y1="8.64"/>
-    <line stroke-width="0.72" stroke="black" x2="8.64" y2="1.44" x1="8.64" y1="8.64"/>
-    <line stroke-width="0.72" stroke="black" x2="1.44" y2="1.44" x1="8.64" y1="1.44"/>
-    <line stroke-width="0.36" stroke="black" x2="3.96" y2="1.44" x1="1.44" y1="3.96"/>
-    <!-- 120 -->
-   </g>
-  </g>
- </g>
- <g partID="854299291">
-  <g transform="translate(27.8052,205.751)">
-   <g transform="matrix(0,-1,1,0,0,0)">
-    <g id="silkscreen">
-     <line stroke-width="0.72" stroke="black" x2="1.44" y2="22.0026" x1="1.44" id="vertical-left" y1="1.44"/>
-     <line stroke-width="0.72" stroke="black" x2="16.992" y2="22.0026" x1="1.44" id="bottom" y1="22.0026"/>
-     <line stroke-width="0.72" stroke="black" x2="16.992" y2="1.44" x1="16.992" id="vertical-right" y1="22.0026"/>
-     <line stroke-width="0.72" stroke="black" x2="1.44" y2="1.44" x1="16.992" id="top" y1="1.44"/>
-     <line stroke-width="0.36" stroke="black" x2="14.112" y2="1.44" x1="14.112" id="mid-vertical" y1="22.0026"/>
+  <g
+     partID="854133101"
+     id="g256"
+     style="">
+    <g
+       transform="translate(76.6858,17.9749)"
+       id="g258"
+       style="">
+      <g
+         id="g260"
+         style="">
+        <rect
+           fill="none"
+           stroke-width="0.72"
+           x="0"
+           stroke="black"
+           width="226.8"
+           height="102.024"
+           y="0"
+           id="rect262"
+           style="" />
+        <rect
+           fill="none"
+           stroke-width="0.72"
+           x="19.44"
+           stroke="black"
+           width="115.2"
+           height="7.2"
+           y="3.6"
+           id="rect264"
+           style="" />
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854299350">
-  <g transform="translate(50.7703,167.318)">
-   <g id="silkscreen">
-    <text font-size="7.2" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0" fill="black" xml:space="preserve" x="3.6" text-anchor="middle" id="label" font-family="OCRA" y="6.48">+</text>
-   </g>
-  </g>
- </g>
- <g partID="854299380">
-  <g transform="translate(19.6342,166.447)">
-   <g id="silkscreen">
-    <text font-size="7.2" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0" fill="black" xml:space="preserve" x="3.6" text-anchor="middle" id="label" font-family="OCRA" y="6.48">-</text>
-   </g>
-  </g>
- </g>
- <g partID="854127000" id="partLabel">
-  <g transform="translate(349.364,36.4805)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">R2</text>
-   </g>
-  </g>
- </g>
- <g partID="854126970" id="partLabel">
-  <g transform="translate(349.679,30.3877)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">R1</text>
-   </g>
-  </g>
- </g>
- <g partID="854136030" id="partLabel">
-  <g transform="translate(293.847,56.0733)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">R5</text>
-    <text x="0" y="8.75">220k&#x3a9;</text>
-   </g>
-  </g>
- </g>
- <g partID="854127040" id="partLabel">
-  <g transform="translate(349.402,50.1413)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">R4</text>
-   </g>
-  </g>
- </g>
- <g partID="854127020" id="partLabel">
-  <g transform="translate(349.407,43.3189)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">R3</text>
-   </g>
-  </g>
- </g>
- <g partID="854125340" id="partLabel">
-  <g transform="translate(179.072,146.113)">
-   <g transform="matrix(1,0,0,1,0,0)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-     <text x="0" y="3.75">Arduino</text>
+  <g
+     partID="854136031"
+     id="g266"
+     style="">
+    <g
+       transform="translate(346.866,64.2709)"
+       id="g268"
+       style="">
+      <g
+         transform="matrix(-1,0,0,-1,0,0)"
+         id="g270"
+         style="">
+        <g
+           id="g272"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="3.096"
+             x1="5.4"
+             y1="3.096"
+             id="line274"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="28.8"
+             y2="3.096"
+             x1="24.984"
+             y1="3.096"
+             id="line276"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="0.72"
+             x1="10.584"
+             y1="0.72"
+             id="line278"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="5.472"
+             x1="24.984"
+             y1="0.72"
+             id="line280"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="5.472"
+             x1="24.984"
+             y1="5.472"
+             id="line282"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="0.72"
+             x1="10.584"
+             y1="5.472"
+             id="line284"
+             style="" />
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854136150" id="partLabel">
-  <g transform="translate(347.738,63.5432)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">R6</text>
-    <text x="0" y="8.75">2.2k&#x3a9;</text>
-   </g>
-  </g>
- </g>
- <g partID="854139320" id="partLabel">
-  <g transform="translate(248.183,143.864)">
-   <g transform="matrix(0,-1,1,0,0,0)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-     <text x="0" y="3.75">R8</text>
-     <text x="0" y="8.75">220&#x3a9;</text>
+  <g
+     partID="854136151"
+     id="g286"
+     style="">
+    <g
+       transform="translate(312.666,65.2789)"
+       id="g288"
+       style="">
+      <g
+         id="g290"
+         style="">
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="10.584"
+           y2="3.096"
+           x1="5.4"
+           y1="3.096"
+           id="line292"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="28.8"
+           y2="3.096"
+           x1="24.984"
+           y1="3.096"
+           id="line294"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="24.984"
+           y2="0.72"
+           x1="10.584"
+           y1="0.72"
+           id="line296"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="24.984"
+           y2="5.472"
+           x1="24.984"
+           y1="0.72"
+           id="line298"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="10.584"
+           y2="5.472"
+           x1="24.984"
+           y1="5.472"
+           id="line300"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="10.584"
+           y2="0.72"
+           x1="10.584"
+           y1="5.472"
+           id="line302"
+           style="" />
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854139290" id="partLabel">
-  <g transform="translate(222.183,143.402)">
-   <g transform="matrix(-4.44089e-16,-1,1,-4.44089e-16,0,0)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-     <text x="0" y="3.75">R7</text>
-     <text x="0" y="8.75">220&#x3a9;</text>
+  <g
+     partID="854138531"
+     id="g304"
+     style="">
+    <g
+       transform="translate(311.046,78.4549)"
+       id="g306"
+       style="">
+      <g
+         stroke-width="0"
+         gorn="0.4.0.0.0.0"
+         id="g308"
+         style="">
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="0.72"
+           y2="59.04"
+           x1="0.72"
+           gorn="0.4.0.0.0.0.0"
+           id="line37"
+           y1="0.72"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="29.52"
+           y2="59.04"
+           x1="0.72"
+           gorn="0.4.0.0.0.0.1"
+           id="line39"
+           y1="59.04"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="29.52"
+           y2="0.72"
+           x1="29.52"
+           gorn="0.4.0.0.0.0.2"
+           id="line41"
+           y1="59.04"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="11.52"
+           y2="0.72"
+           x1="0.72"
+           gorn="0.4.0.0.0.0.3"
+           id="line43"
+           y1="0.72"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="29.52"
+           y2="0.72"
+           x1="18.72"
+           gorn="0.4.0.0.0.0.4"
+           id="line45"
+           y1="0.72"
+           style="" />
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854140790" id="partLabel">
-  <g transform="translate(350.183,108.388)">
-   <g transform="matrix(0,-1,1,0,0,0)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-     <text x="0" y="3.75">Aparat</text>
+  <g
+     partID="854139291"
+     id="g315"
+     style="">
+    <g
+       transform="translate(233.07,157.475)"
+       id="g317"
+       style="">
+      <g
+         transform="matrix(-4.44089e-16,-1,1,-4.44089e-16,0,0)"
+         id="g319"
+         style="">
+        <g
+           id="g321"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="3.096"
+             x1="5.4"
+             y1="3.096"
+             id="line323"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="28.8"
+             y2="3.096"
+             x1="24.984"
+             y1="3.096"
+             id="line325"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="0.72"
+             x1="10.584"
+             y1="0.72"
+             id="line327"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="5.472"
+             x1="24.984"
+             y1="0.72"
+             id="line329"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="5.472"
+             x1="24.984"
+             y1="5.472"
+             id="line331"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="0.72"
+             x1="10.584"
+             y1="5.472"
+             id="line333"
+             style="" />
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854138530" id="partLabel">
-  <g transform="translate(323.834,127.908)">
-   <g transform="matrix(0,-1,1,0,0,0)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-     <text x="0" y="3.75">Transoptor</text>
+  <g
+     partID="854139321"
+     id="g335"
+     style="">
+    <g
+       transform="translate(240.27,157.475)"
+       id="g337"
+       style="">
+      <g
+         transform="matrix(-4.44089e-16,-1,1,-4.44089e-16,0,0)"
+         id="g339"
+         style="">
+        <g
+           id="g341"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="3.096"
+             x1="5.4"
+             y1="3.096"
+             id="line343"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="28.8"
+             y2="3.096"
+             x1="24.984"
+             y1="3.096"
+             id="line345"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="0.72"
+             x1="10.584"
+             y1="0.72"
+             id="line347"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="24.984"
+             y2="5.472"
+             x1="24.984"
+             y1="0.72"
+             id="line349"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="5.472"
+             x1="24.984"
+             y1="5.472"
+             id="line351"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="10.584"
+             y2="0.72"
+             x1="10.584"
+             y1="5.472"
+             id="line353"
+             style="" />
+        </g>
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854160850" id="partLabel">
-  <g transform="translate(122.873,123.511)">
-   <g transform="matrix(1,0,0,1,0,0)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-     <text x="0" y="3.75">Klawiatura</text>
+  <g
+     partID="854298791"
+     id="g355"
+     style="">
+    <g
+       transform="translate(0.725824,20.1349)"
+       id="g357"
+       style="">
+      <g
+         id="g359"
+         style="">
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="1.44"
+           y2="8.64"
+           x1="1.44"
+           y1="1.44"
+           id="line361"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="8.64"
+           y2="8.64"
+           x1="1.44"
+           y1="8.64"
+           id="line363"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="8.64"
+           y2="1.44"
+           x1="8.64"
+           y1="8.64"
+           id="line365"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="1.44"
+           y2="1.44"
+           x1="8.64"
+           y1="1.44"
+           id="line367"
+           style="" />
+        <line
+           stroke-width="0.36"
+           stroke="black"
+           x2="3.96"
+           y2="1.44"
+           x1="1.44"
+           y1="3.96"
+           id="line369"
+           style="" />
+        <!-- 120 -->
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854298790" id="partLabel">
-  <g transform="translate(10.8058,14.5349)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">OUT-</text>
-   </g>
-  </g>
- </g>
- <g partID="854299170" id="partLabel">
-  <g transform="translate(61.2058,14.5349)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">OUT+</text>
-   </g>
-  </g>
- </g>
- <g partID="854299210" id="partLabel">
-  <g transform="translate(61.2058,136.935)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">IN+</text>
-   </g>
-  </g>
- </g>
- <g partID="854299250" id="partLabel">
-  <g transform="translate(10.8058,136.935)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">IN-</text>
-   </g>
-  </g>
- </g>
- <g partID="854299290" id="partLabel">
-  <g transform="translate(30.3817,206.885)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">6-30V</text>
-   </g>
-  </g>
- </g>
- <g partID="854244890" id="partLabel">
-  <g transform="translate(242.696,198.85)">
-   <g transform="matrix(1,0,0,1,0,0)">
-    <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-     <text x="0" y="3.75">Sterownik silnika krokowego</text>
+  <g
+     partID="854299171"
+     id="g371"
+     style="">
+    <g
+       transform="translate(51.1258,20.1349)"
+       id="g373"
+       style="">
+      <g
+         id="g375"
+         style="">
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="1.44"
+           y2="8.64"
+           x1="1.44"
+           y1="1.44"
+           id="line377"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="8.64"
+           y2="8.64"
+           x1="1.44"
+           y1="8.64"
+           id="line379"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="8.64"
+           y2="1.44"
+           x1="8.64"
+           y1="8.64"
+           id="line381"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="1.44"
+           y2="1.44"
+           x1="8.64"
+           y1="1.44"
+           id="line383"
+           style="" />
+        <line
+           stroke-width="0.36"
+           stroke="black"
+           x2="3.96"
+           y2="1.44"
+           x1="1.44"
+           y1="3.96"
+           id="line385"
+           style="" />
+        <!-- 120 -->
+      </g>
     </g>
-   </g>
   </g>
- </g>
- <g partID="854133100" id="partLabel">
-  <g transform="translate(214.374,22.6197)">
-   <g font-size="5" font-weight="normal" fill="#000000" stroke="none" font-style="normal" id="silkscreenLabel" font-family="'OCRA'" fill-opacity="1">
-    <text x="0" y="3.75">LCD</text>
-   </g>
+  <g
+     partID="854299211"
+     id="g387"
+     style="">
+    <g
+       transform="translate(61.2058,142.535)"
+       id="g389"
+       style="">
+      <g
+         transform="matrix(0,1,-1,0,0,0)"
+         id="g391"
+         style="">
+        <g
+           id="g393"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="1.44"
+             y2="8.64"
+             x1="1.44"
+             y1="1.44"
+             id="line395"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="8.64"
+             y2="8.64"
+             x1="1.44"
+             y1="8.64"
+             id="line397"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="8.64"
+             y2="1.44"
+             x1="8.64"
+             y1="8.64"
+             id="line399"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="1.44"
+             y2="1.44"
+             x1="8.64"
+             y1="1.44"
+             id="line401"
+             style="" />
+          <line
+             stroke-width="0.36"
+             stroke="black"
+             x2="3.96"
+             y2="1.44"
+             x1="1.44"
+             y1="3.96"
+             id="line403"
+             style="" />
+          <!-- 120 -->
+        </g>
+      </g>
+    </g>
   </g>
- </g>
+  <g
+     partID="854299251"
+     id="g405"
+     style="">
+    <g
+       transform="translate(0.725824,142.535)"
+       id="g407"
+       style="">
+      <g
+         id="g409"
+         style="">
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="1.44"
+           y2="8.64"
+           x1="1.44"
+           y1="1.44"
+           id="line411"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="8.64"
+           y2="8.64"
+           x1="1.44"
+           y1="8.64"
+           id="line413"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="8.64"
+           y2="1.44"
+           x1="8.64"
+           y1="8.64"
+           id="line415"
+           style="" />
+        <line
+           stroke-width="0.72"
+           stroke="black"
+           x2="1.44"
+           y2="1.44"
+           x1="8.64"
+           y1="1.44"
+           id="line417"
+           style="" />
+        <line
+           stroke-width="0.36"
+           stroke="black"
+           x2="3.96"
+           y2="1.44"
+           x1="1.44"
+           y1="3.96"
+           id="line419"
+           style="" />
+        <!-- 120 -->
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854299291"
+     id="g421"
+     style="">
+    <g
+       transform="translate(27.8052,205.751)"
+       id="g423"
+       style="">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g425"
+         style="">
+        <g
+           id="g427"
+           style="">
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="1.44"
+             y2="22.0026"
+             x1="1.44"
+             id="vertical-left"
+             y1="1.44"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="16.992"
+             y2="22.0026"
+             x1="1.44"
+             id="bottom"
+             y1="22.0026"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="16.992"
+             y2="1.44"
+             x1="16.992"
+             id="vertical-right"
+             y1="22.0026"
+             style="" />
+          <line
+             stroke-width="0.72"
+             stroke="black"
+             x2="1.44"
+             y2="1.44"
+             x1="16.992"
+             id="top"
+             y1="1.44"
+             style="" />
+          <line
+             stroke-width="0.36"
+             stroke="black"
+             x2="14.112"
+             y2="1.44"
+             x1="14.112"
+             id="mid-vertical"
+             y1="22.0026"
+             style="" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854299350"
+     id="g434"
+     style="">
+    <g
+       transform="translate(50.7703,167.318)"
+       id="g436"
+       style="">
+      <g
+         id="g438"
+         style="">
+        <text
+           font-size="7.2"
+           stroke-width="0"
+           fill="black"
+           xml:space="preserve"
+           x="3.6"
+           text-anchor="middle"
+           id="text440"
+           font-family="OCRA"
+           y="6.48"
+           style="-inkscape-font-specification:'Futura Md BT';font-family:'Futura Md BT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">+</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854299380"
+     id="g442"
+     style="">
+    <g
+       transform="translate(19.6342,166.447)"
+       id="g444"
+       style="">
+      <g
+         id="g446"
+         style="">
+        <text
+           font-size="7.2"
+           stroke-width="0"
+           fill="black"
+           xml:space="preserve"
+           x="3.6"
+           text-anchor="middle"
+           id="text448"
+           font-family="OCRA"
+           y="6.48"
+           style="-inkscape-font-specification:'Futura Md BT';font-family:'Futura Md BT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">-</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854127000"
+     id="partLabel"
+     style="">
+    <g
+       transform="translate(349.364,36.4805)"
+       id="g451"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="silkscreenLabel"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text454"
+           style="">R2</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854126970"
+     id="g456"
+     style="">
+    <g
+       transform="translate(349.679,30.3877)"
+       id="g458"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g460"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text462"
+           style="">R1</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854136030"
+     id="g464"
+     style="">
+    <g
+       transform="translate(293.847,56.0733)"
+       id="g466"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g468"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text470"
+           style="">R5</text>
+        <text
+           x="0"
+           y="8.75"
+           id="text472"
+           style="">220kΩ</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854127040"
+     id="g474"
+     style="">
+    <g
+       transform="translate(349.402,50.1413)"
+       id="g476"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g478"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text480"
+           style="">R4</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854127020"
+     id="g482"
+     style="">
+    <g
+       transform="translate(349.407,43.3189)"
+       id="g484"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g486"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text488"
+           style="">R3</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854125340"
+     id="g490"
+     style="">
+    <g
+       transform="translate(179.072,146.113)"
+       id="g492"
+       style="">
+      <g
+         transform="matrix(1,0,0,1,0,0)"
+         id="g494"
+         style="">
+        <g
+           font-size="5"
+           font-weight="normal"
+           fill="#000000"
+           stroke="none"
+           font-style="normal"
+           id="g496"
+           font-family="'OCRA'"
+           fill-opacity="1"
+           style="">
+          <text
+             x="0"
+             y="3.75"
+             id="text498"
+             style="">Arduino</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854136150"
+     id="g500"
+     style="">
+    <g
+       transform="translate(347.738,63.5432)"
+       id="g502"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g504"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text506"
+           style="">R6</text>
+        <text
+           x="0"
+           y="8.75"
+           id="text508"
+           style="">2.2kΩ</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854139320"
+     id="g510"
+     style="">
+    <g
+       transform="translate(248.183,143.864)"
+       id="g512"
+       style="">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g514"
+         style="">
+        <g
+           font-size="5"
+           font-weight="normal"
+           fill="#000000"
+           stroke="none"
+           font-style="normal"
+           id="g516"
+           font-family="'OCRA'"
+           fill-opacity="1"
+           style="">
+          <text
+             x="0"
+             y="3.75"
+             id="text518"
+             style="">R8</text>
+          <text
+             x="0"
+             y="8.75"
+             id="text520"
+             style="">220Ω</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854139290"
+     id="g522"
+     style="">
+    <g
+       transform="translate(222.183,143.402)"
+       id="g524"
+       style="">
+      <g
+         transform="matrix(-4.44089e-16,-1,1,-4.44089e-16,0,0)"
+         id="g526"
+         style="">
+        <g
+           font-size="5"
+           font-weight="normal"
+           fill="#000000"
+           stroke="none"
+           font-style="normal"
+           id="g528"
+           font-family="'OCRA'"
+           fill-opacity="1"
+           style="">
+          <text
+             x="0"
+             y="3.75"
+             id="text530"
+             style="">R7</text>
+          <text
+             x="0"
+             y="8.75"
+             id="text532"
+             style="">220Ω</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854140790"
+     id="g534"
+     style="">
+    <g
+       transform="translate(350.183,108.388)"
+       id="g536"
+       style="">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g538"
+         style="">
+        <g
+           font-size="5"
+           font-weight="normal"
+           fill="#000000"
+           stroke="none"
+           font-style="normal"
+           id="g540"
+           font-family="'OCRA'"
+           fill-opacity="1"
+           style="">
+          <text
+             x="0"
+             y="3.75"
+             id="text542"
+             style="">Aparat</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854138530"
+     id="g544"
+     style="">
+    <g
+       transform="translate(323.834,127.908)"
+       id="g546"
+       style="">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g548"
+         style="">
+        <g
+           font-size="5"
+           font-weight="normal"
+           fill="#000000"
+           stroke="none"
+           font-style="normal"
+           id="g550"
+           font-family="'OCRA'"
+           fill-opacity="1"
+           style="">
+          <text
+             x="0"
+             y="3.75"
+             id="text552"
+             style="">Transoptor</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854160850"
+     id="g554"
+     style="">
+    <g
+       transform="translate(122.873,123.511)"
+       id="g556"
+       style="">
+      <g
+         transform="matrix(1,0,0,1,0,0)"
+         id="g558"
+         style="">
+        <g
+           font-size="5"
+           font-weight="normal"
+           fill="#000000"
+           stroke="none"
+           font-style="normal"
+           id="g560"
+           font-family="'OCRA'"
+           fill-opacity="1"
+           style="">
+          <text
+             x="0"
+             y="3.75"
+             id="text562"
+             style="">Klawiatura</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854298790"
+     id="g564"
+     style="">
+    <g
+       transform="translate(10.8058,14.5349)"
+       id="g566"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g568"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text570"
+           style=""
+           sodipodi:linespacing="125%">
+          <tspan
+             style="-inkscape-font-specification:'Futura Md BT, Normal';font-family:'Futura Md BT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.00001049px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+             id="tspan3958">OUT-</tspan>
+        </text>
+        <text
+           sodipodi:linespacing="125%"
+           style=""
+           id="text3960"
+           y="3.75"
+           x="0">
+          <tspan
+             id="tspan3962"
+             style="-inkscape-font-specification:'Futura Md BT, Normal';font-family:'Futura Md BT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.00001049px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">OUT-</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854299170"
+     id="g572"
+     style="">
+    <g
+       transform="translate(61.2058,14.5349)"
+       id="g574"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g576"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text578"
+           style=""
+           sodipodi:linespacing="125%">
+          <tspan
+             style="-inkscape-font-specification:'Futura Md BT, Normal';font-family:'Futura Md BT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.00001049px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+             id="tspan3956">OUT+</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854299210"
+     id="g580"
+     style="">
+    <g
+       transform="translate(61.2058,136.935)"
+       id="g582"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g584"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text586"
+           style="">IN+</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854299250"
+     id="g588"
+     style="">
+    <g
+       transform="translate(10.8058,136.935)"
+       id="g590"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g592"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text594"
+           style="">IN-</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854299290"
+     id="g596"
+     style="">
+    <g
+       transform="translate(30.3817,206.885)"
+       id="g598"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g600"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text602"
+           style="">6-30V</text>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854244890"
+     id="g604"
+     style="">
+    <g
+       transform="translate(242.696,198.85)"
+       id="g606"
+       style="">
+      <g
+         transform="matrix(1,0,0,1,0,0)"
+         id="g608"
+         style="">
+        <g
+           font-size="5"
+           font-weight="normal"
+           fill="#000000"
+           stroke="none"
+           font-style="normal"
+           id="g610"
+           font-family="'OCRA'"
+           fill-opacity="1"
+           style="">
+          <text
+             x="0"
+             y="3.75"
+             id="text612"
+             style="">Sterownik silnika krokowego</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     partID="854133100"
+     id="g614"
+     style="">
+    <g
+       transform="translate(214.374,22.6197)"
+       id="g616"
+       style="">
+      <g
+         font-size="5"
+         font-weight="normal"
+         fill="#000000"
+         stroke="none"
+         font-style="normal"
+         id="g618"
+         font-family="'OCRA'"
+         fill-opacity="1"
+         style="">
+        <text
+           x="0"
+           y="3.75"
+           id="text620"
+           style="">
+          <tspan
+             style="-inkscape-font-specification:'Futura Md BT';font-family:'Futura Md BT';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+             id="tspan3954">LCD</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
 </svg>
